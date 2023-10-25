@@ -1,0 +1,19 @@
+{
+  "name": "user-data-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "akshat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "maxmind": "^2.12.0",
+    "mongoose": "^7.6.3",
+    "ws": "^8.14.2"
+  }
+}
